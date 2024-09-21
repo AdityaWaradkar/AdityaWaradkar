@@ -4,7 +4,7 @@
 Hello! I'm **Aditya W**, an aspiring Computer Engineering student with a passion for **DevOps**, **cloud computing**, and **web development** . Alongside my academic journey, I'm exploring cloud and DevOps technologies and always staying up-to-date with the latest advancements in and the web development landscape.  
 ## 💼 Professional Background
 - **CE Student** at **S.I.E.S Graduate School of Technology**
-- 
+  
 ## 🚀 Skills
 - **Programming Languages:** Java, C, Python, JavaScript
 - **Web Development:** HTML , CSS ,JavaScript , React 
