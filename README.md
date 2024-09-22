@@ -11,7 +11,7 @@ Hello! I'm **Aditya W**, an aspiring Computer Engineering student with a passion
 - **Cloud & DevOps:** Basic cloud computing concepts and DevOps tools
 
 ## 📚 Education
-- **B.E. in Computer Engineering** from **SIESGST**        
+- **B.E. in Computer Engineering** from **SIES Graduate School of Technology**        
 - **Year of Graduation:** 2026
 - Strong academic record, with a current **CGPA of 9.35**
 
