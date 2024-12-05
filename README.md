@@ -40,7 +40,7 @@ Hello! I'm **Aditya Abhay Waradkar**, a Computer Engineering student with a keen
 ---
 ## 📊 GitHub Stats
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaWaradkar&show_icons=true&theme=dark)
 
 ---
 
