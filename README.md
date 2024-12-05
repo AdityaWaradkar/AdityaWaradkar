@@ -41,15 +41,15 @@ Hello! I'm **Aditya Abhay Waradkar**, a Computer Engineering student with a keen
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaWaradkar&show_icons=true&theme=dark)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true)
+![GitHub Streak Stats](https://streak-stats.demolab.com?username=AdityaWaradkar&theme=dark&hide_border=true)
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWaradkar&layout=compact&theme=dark)
 
 ---
 
