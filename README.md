@@ -1,33 +1,69 @@
-# AdityaWaradkar
+# 👋 Introduction  
+Hello! I'm **Aditya Abhay Waradkar**, a Computer Engineering student with a keen interest in **web development**, **DevOps**, and **cloud computing**. I specialize in **backend development** using **Go** and the **MERN stack** to create scalable, efficient, and user-friendly applications. Currently, I'm gaining hands-on DevOps experience through an internship at Tata Power and coursework from IBM's DevOps and Software Engineering program.
 
-## 👋 Introduction
-Hello! I'm **Aditya W**, an aspiring Computer Engineering student with a passion for **DevOps**, **cloud computing**, and **web development** . Alongside my academic journey, I'm exploring cloud and DevOps technologies and always staying up-to-date with the latest advancements in and the web development landscape.  
-## 💼 Professional Background
-- **CE Student** at **S.I.E.S Graduate School of Technology**
-  
-## 🚀 Skills
-- **Programming Languages:** Java, C, Python, JavaScript
-- **Web Development:** HTML , CSS ,JavaScript , React 
-- **Cloud & DevOps:** Basic cloud computing concepts and DevOps tools
+---
 
-## 📚 Education
-- **B.E. in Computer Engineering** from **SIES Graduate School of Technology**        
-- **Year of Graduation:** 2026
-- Strong academic record, with a current **CGPA of 9.35**
+## 💼 Professional Background  
+- **CE Student**, **SIES Graduate School of Technology**  
+  *CGPA:* **9.35/10** (Expected graduation: **2026**)  
+- **Intern** at **The Tata Power Company Limited**  
+  Focused on acquiring practical DevOps knowledge and AWS expertise.
 
-## 🛠️ Projects
-- **DomainDive:** A website guiding students in career advancements, built with HTML, CSS, and JavaScript
-- **Smart Parking System (IoT Project):** Designed a smart parking system using sensors, Raspberry Pi, and a React-based frontend
-- **The Alumni Association Platform:** Developed for the Smart India Hackathon 2024 using the MERN stack
+---
 
-## 🎓 Certifications
-- **Java Programming Certificate** (2023)
-- **IBM DevOps and Software Engineering Certification** (In progress)
+## 🚀 Skills  
+- **Programming Languages:** Go, Java, JavaScript  
+- **Backend Development:** Go, Node.js, Express  
+- **Frontend Development:** React.js  
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Git, Linux  
+- **Database Management:** MongoDB  
+- **Methodologies:** Agile, Scrum, Kanban  
 
-## 📫 Contact
-- **Email:** adityawaradkar1801@gmail.com
-- **Instagram:** [@adityawaradkarr](https://www.instagram.com/adityawaradkarr)
-- **LinkedIn:** [Aditya Waradkar](https://www.linkedin.com/in/aditya-waradkar-9a03b92a5/)
+---
 
-## 🤝 Let's Connect!
-I'm always open to connecting with fellow professionals and enthusiasts. Feel free to reach out if you'd like to collaborate on a project, discuss **web development**, or **DevOps**, or just to connect!
+## 🛠️ Key Projects  
+### **Portfolio Website**  
+- A responsive personal portfolio built with **React** and **Vite**.  
+- Automated deployment via **GitHub Actions** CI/CD.  
+- [Live Demo](https://adityawaradkar.github.io/portfolio/)  
+
+### **To-Do List Web App**  
+- Demonstrated **microservices architecture** using **Go** and **Docker Compose**.  
+- Built a modular application with **React** frontend and efficient backend services.  
+- [GitHub Repository](https://github.com/AdityaWaradkar/to-do-app-microservice-backend)  
+
+### **ParkSense: IoT-based Smart Parking System**  
+- Led full-stack development using the **MERN stack**.  
+- Integrated hardware sensors with **ThingSpeak** for real-time parking slot updates.  
+- [GitHub Repository](https://github.com/AdityaWaradkar/IoT_based_smart_parking_system)
+
+---
+
+## 🎓 Education  
+- **B.E. in Computer Engineering**, **SIES Graduate School of Technology**, CGPA: **9.35/10**  
+- **12th Grade (MSBSHSE):** 81.67%  
+- **10th Grade (MSBSHSE):** 87%  
+
+---
+
+## 🎓 Certifications  
+- **IBM DevOps and Software Engineering** (Ongoing)  
+- **Introduction to DevOps:** 83%  
+- **Cloud Computing:** 84%  
+- **Agile Development & Scrum:** 82%  
+- **Git & GitHub:** 92.85%  
+- **Linux Commands & Shell Scripting:** 89.66%  
+
+---
+
+## 📫 Contact  
+- **Email:** [adityawaradkar2004@gmail.com](mailto:adityawaradkar2004@gmail.com)  
+- **Phone:** +91-9326732594 / +91-8390036836  
+- **LinkedIn:** [Aditya Waradkar](https://www.linkedin.com/in/aditya-waradkar-9a03b92a5/)  
+- **Portfolio:** [adityawaradkar.github.io](https://adityawaradkar.github.io/portfolio/)  
+- **GitHub:** [AdityaWaradkar](https://github.com/AdityaWaradkar)  
+
+---
+
+## 🤝 Let's Connect!  
+I’m passionate about crafting impactful solutions and exploring emerging technologies. Whether you’re interested in collaborating on **web development**, **DevOps**, or discussing **cloud strategies**, feel free to reach out!  
