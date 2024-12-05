@@ -45,7 +45,7 @@ Hello! I'm **Aditya Abhay Waradkar**, a Computer Engineering student with a keen
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWaradkar&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWaradkar&layout=compact&theme=dark&hide=scss,css)
 
 ---
 
