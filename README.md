@@ -38,6 +38,11 @@ Hello! I'm **Aditya Abhay Waradkar**, a Computer Engineering student with a keen
 - [GitHub Repository](https://github.com/AdityaWaradkar/IoT_based_smart_parking_system)
 
 ---
+## 📊 GitHub Stats
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+---
 
 ## 🎓 Education  
 - **B.E. in Computer Engineering**, **SIES Graduate School of Technology**, CGPA: **9.35/10**  
