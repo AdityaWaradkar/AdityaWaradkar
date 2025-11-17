@@ -35,11 +35,12 @@ I specialize in building scalable backend systems, developing cloud-native appli
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Go • Java • Python • JavaScript • C |
-| **Backend** | **Go** • Node.js |
-| **Frontend** | React.js |
-| **Cloud & DevOps** | **AWS** • **Docker** • **Kubernetes** • Git • Linux • CI/CD |
-| **Databases** | MongoDB • PostgreSQL |
+| **Languages** | **Go (Golang)** • **Java** • **Python** • **JavaScript** • C • Shell Scripting |
+| **Backend Frameworks** | **Go (Golang)** • **Node.js** • Express.js |
+| **Frontend** | React.js (ReactJS) |
+| **Cloud & DevOps Tools** | **Kubernetes** • **Docker** • Amazon Web Services (AWS) • Linux • Git |
+| **Databases** | **PostgreSQL** • MongoDB |
+| **Concepts/Architectures** | **DevOps** • CI/CD • Microservices |
 
 ---
 
