@@ -24,10 +24,7 @@ I specialize in building scalable backend systems, developing cloud-native appli
   <img src="https://img.shields.io/badge/CI%2FCD-Pipeline-D853A8?style=for-the-badge&logo=jenkins&logoColor=white" alt="CI/CD Badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaWaradkar&show_icons=true&theme=buefy&hide_rank=true" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWaradkar&layout=compact&theme=buefy&exclude_repo=Gratia" alt="Aditya's Top Languages" />
-</p>
+
 
 ---
 
