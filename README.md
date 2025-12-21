@@ -7,8 +7,6 @@ I specialize in building scalable backend systems, developing cloud-native appli
 
 ---
 
-## GitHub Stats & Activity
-
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Backend Badge" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Database Badge" />
