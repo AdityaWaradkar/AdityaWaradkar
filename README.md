@@ -1,6 +1,6 @@
 # Aditya Abhay Waradkar
 
-**Backend Developer (Go) | DevOps & Cloud Practitioner | AI/ML Enthusiast**
+**Backend Developer (Go) | DevOps & Cloud Practitioner**
 Final-year Computer Engineering student with a **CGPA of 9.13**.
 
 I specialize in building scalable backend systems, developing cloud-native applications, and applying DevOps practices. I am also actively exploring Artificial Intelligence and Machine Learning, driven by the logical and mathematical depth of the domain.
