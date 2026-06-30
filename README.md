@@ -47,8 +47,8 @@ Currently building the system using a microservices architecture, Docker, and Po
 [**View Repository**](https://github.com/AdityaWaradkar/Gratia)
 
 ### Portfolio Website
-Personal portfolio built with React and Vite, deployed on Vercel with GitHub Actions CI/CD.
-[**Live Link**](https://aditya-waradkar.vercel.app/)
+Personal portfolio built with Next and GoLang.
+[**Live Link**](https://adityawaradkar-gamma.vercel.app/)
 
 ### To-Do Application (Microservices)
 Microservices-based to-do application using **Go**, Docker Compose, and a React frontend.
