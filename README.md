@@ -106,7 +106,7 @@ SIES Graduate School of Technology
   <a href="https://github.com/AdityaWaradkar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://aditya-waradkar.vercel.app/" target="_blank">
+  <a href="https://adityawaradkar-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
