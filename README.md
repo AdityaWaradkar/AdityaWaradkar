@@ -1,4 +1,4 @@
-# Aditya Abhay Waradkar
+# [Aditya Abhay Waradkar](https://adityawaradkar.dev/)
 
 **Backend Developer (Go) | DevOps & Cloud Practitioner**
 Final-year Computer Engineering student with a **CGPA of 9.13**.
@@ -48,7 +48,7 @@ Currently building the system using a microservices architecture, Docker, and Po
 
 ### Portfolio Website
 Personal portfolio built with Next and GoLang.
-[**Live Link**](https://adityawaradkar-gamma.vercel.app/)
+[**Live Link**](https://adityawaradkar.dev)
 
 ### To-Do Application (Microservices)
 Microservices-based to-do application using **Go**, Docker Compose, and a React frontend.
